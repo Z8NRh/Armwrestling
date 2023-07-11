@@ -1,4 +1,4 @@
 if game.PlaceId == 12333888195 then 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Z8NRh/Cathub/Main/77_1857RX6.lua'))() end
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Z8NRh/Cathub/Main/77_OD8YB.lua.txt'))() end
 if game.PlaceId == 3495989665 then 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Z8NRh/Cathub/Main/77_YYIUD33ULJ4E2J.txt'))() end
