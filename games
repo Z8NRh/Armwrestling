@@ -2,5 +2,5 @@ if game.PlaceId == 12333888195 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Z8NRh/Cathub/Main/77_OD8YB.lua'))() end
 if game.PlaceId == 3495989665 then 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Z8NRh/Cathub/Main/77_YYIUD33ULJ4E2J.lua'))() end
-if game.PlaceId == 13127800756 then 
+if if game.PlaceId == 13127800756 then
 loadstring(game:HttpGet('https://github.com/Z8NRh/Cathub/raw/Main/77_YYIUD33ULJ4E2J.lua'))() end
